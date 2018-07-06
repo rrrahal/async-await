@@ -1,0 +1,22 @@
+{
+  "name": "async-await",
+  "version": "1.0.0",
+  "description": "This is the last part of [Andrew Mead's](http://mead.io) nodeJS [course](https://www.udemy.com/the-complete-nodejs-developer-course-2/).",
+  "main": "app-promises.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrrahal/async-await.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrrahal/async-await/issues"
+  },
+  "homepage": "https://github.com/rrrahal/async-await#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
